@@ -20,7 +20,7 @@ A Streamlit application that performs sentiment analysis on customer reviews. Us
 ## **Demo Video**
 
 
-[Watch the Demo Video](demo.mp4)
+[Watch the Demo Video](https://youtu.be/62bmg7iAsYA)
 
 ## **scren short**
 
